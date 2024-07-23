@@ -1,0 +1,3 @@
+url http://www.automationpractice.pl/index.php
+username admin0909@gmail.com
+password Home@0909
